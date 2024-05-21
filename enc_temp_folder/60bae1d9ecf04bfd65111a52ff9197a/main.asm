@@ -35,8 +35,6 @@ finit
 
 
 
-
-
 exit
 main ENDP
 END main
